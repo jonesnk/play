@@ -1,3 +1,5 @@
+Another test
+
 This is your new Play application
 =================================
 
@@ -26,7 +28,7 @@ Components
 
 - Module.java:
 
-  Shows how to use Guice to bind all the components needed by your application.
+  Shows how to use Guide to bind all the components needed by your application.
 
 - Counter.java:
 
